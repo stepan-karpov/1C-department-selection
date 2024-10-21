@@ -14,7 +14,7 @@ Miro с архитектурой приложения: https://miro.com/app/boar
 ![miro.png](Miro)
 
 <p align="center">
- <img width="200px" src="miro.png" alt="qr"/>
+ <img width="1700px" src="miro.png" alt="qr"/>
 </p>
 
 Общие архитектурные заметки:
